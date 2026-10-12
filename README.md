@@ -22,5 +22,4 @@ This repository contains my SQL practice queries and problem-solving exercises t
 
 ## About Me
 I am a B.Sc. Artificial Intelligence and Machine Learning student interested in SQL, Data Analytics, and database management.
-
 This repository showcases my continuous learning and practical SQL skills.
