@@ -11,6 +11,11 @@ This repository contains my SQL practice queries and problem-solving exercises t
 - CTEs and Window Functions
 - SQL Practice Problems
 
+## Database used
+- MOVIE_DB
+- OTT
+- SOCIAL MEDIA ANALYTICS 
+
 ## Tools Used
 - MySQL
 - MySQL Workbench
